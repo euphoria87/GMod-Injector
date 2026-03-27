@@ -11,7 +11,7 @@
 - Полностью на C++ + DirectX 11 + ImGui
 
 ### Скриншот
-![GMod Injector](https://i.imgur.com/твоя_ссылка_на_скриншот.png)
+![GMod Injector](https://i.imgur.com/DXj6wiI.png)
 
 ### Как использовать
 1. Скачай последнюю версию из Releases
